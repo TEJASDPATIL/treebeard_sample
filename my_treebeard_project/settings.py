@@ -37,7 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    "treebeard",
+    "my_treebeard_project",
     "tree",
 ]
 
@@ -51,7 +51,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'treebeard.urls'
+ROOT_URLCONF = 'my_treebeard_project.urls'
 
 TEMPLATES = [
     {
@@ -69,7 +69,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'treebeard.wsgi.application'
+WSGI_APPLICATION = 'my_treebeard_project.wsgi.application'
 
 
 # Database
