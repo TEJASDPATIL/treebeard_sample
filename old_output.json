@@ -1,0 +1,57 @@
+[
+  {"type":"directory","name":"vlcm_docker","contents":[
+    {"type":"file","name":"docker-compose.yml"},
+    {"type":"file","name":"env"},
+    {"type":"file","name":"fetch.py"},
+    {"type":"file","name":"new_output.json"},
+    {"type":"file","name":"output.json"},
+    {"type":"file","name":"README.md"},
+    {"type":"file","name":"requirements.txt"},
+    {"type":"directory","name":"vlcm_backend","contents":[
+      {"type":"file","name":"bandit.yaml"},
+      {"type":"file","name":"coverage.svg"},
+      {"type":"file","name":"cronjobs"},
+      {"type":"file","name":"cycle2.csv"},
+      {"type":"file","name":"Dockerfile"},
+      {"type":"file","name":"Dockerfile_cron"},
+      {"type":"directory","name":"docs"},
+      {"type":"file","name":"interrogate_badge.svg"},
+      {"type":"file","name":"My_Basic_Network_Scan_c00q9t(1).csv"},
+      {"type":"file","name":"My_Sample_Nessus Scan.csv"},
+      {"type":"file","name":"prod.Dockerfile"},
+      {"type":"file","name":"prod_dockerfile_cron"},
+      {"type":"file","name":"prod.Dockerfile.dockerignore"},
+      {"type":"file","name":"prod_requirements.txt"},
+      {"type":"file","name":"README.md"},
+      {"type":"file","name":"requirements.txt"},
+      {"type":"file","name":"requirements.txt.bak"},
+      {"type":"file","name":"scopes.csv"},
+      {"type":"file","name":"setup.cfg"},
+      {"type":"directory","name":"src"},
+      {"type":"file","name":"swagger.yaml"}
+  ]},
+    {"type":"file","name":"vlcm_data.sql"},
+    {"type":"directory","name":"vlcm_frontend","contents":[
+      {"type":"file","name":"Dockerfile"},
+      {"type":"file","name":"index.html"},
+      {"type":"file","name":"jsdoc.json"},
+      {"type":"directory","name":"node_modules"},
+      {"type":"file","name":"package.json"},
+      {"type":"file","name":"package.json.bak"},
+      {"type":"file","name":"pnpm-lock.yaml"},
+      {"type":"directory","name":"src"},
+      {"type":"file","name":"tsconfig.json"},
+      {"type":"file","name":"vite.config.ts"}
+  ]},
+    {"type":"directory","name":"vlcm_license","contents":[
+      {"type":"file","name":"Dockerfile"},
+      {"type":"file","name":"__init__.py"},
+      {"type":"file","name":"pyproject.toml"},
+      {"type":"file","name":"README.md"},
+      {"type":"file","name":"requirements.txt"},
+      {"type":"directory","name":"src"}
+  ]}
+  ]}
+,
+  {"type":"report","directories":8,"files":40}
+]
